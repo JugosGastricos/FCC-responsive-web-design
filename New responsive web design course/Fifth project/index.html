@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8' />
+    <meta name='viewport' content='width=device-width, initial-scale=1.0' />
+    <link rel='stylesheet' href='styles.css' />
+    <title>Certification test: Survey form</title>
+  </head>
+  <body>
+    <section class='title-section'>
+      <h1 id='title'>Survey form test</h1>
+      <p id='description'>This is a survey form made in FreeCodeCamp. Enjoy :3</p>
+    </section>
+    <form id='survey-form'>
+      <fieldset>
+        <label for='name' id='name-label'>Name: <input type='text' id='name' name='name' placeholder='your name here' required /></label>
+        <label for='email' id='email-label'>Email: <input type='email' id='email' name='email' placeholder='example@example.com' required /></label>
+        <label for='number' id='number-label'>Age: <input type='number' id='number' name='number' placeholder='your age' min='18' max='100' /></label>
+        <label for='dropdown'>How did you know about FreeCodeCamp:
+          <select id='dropdown'>
+            <option value=''>(select option)</option>
+            <option value='1'>YouTube</option>
+            <option value='2'>Google</option>
+            <option value='3'>A friend</option>
+            <option value='4'>None of your business pal >:v</option>
+          </select>
+        </label>
+      </fieldset>
+      <fieldset>
+        <label for='recommend'>
+          Would you recommend FreeCodeCamp to a friend?
+          <label for='recommend-yes'><input type='radio' id='recommend-yes' value='yes' name='recommend' checked />For sure!</label>
+          <label for='recommend-maybe'><input type='radio' id='recommend-maybe' value='maybe' name='recommend' />Maybe</label>
+          <label for='recommend-no'><input type='radio' id='recommend-no' value='no' name='recommend' />Nah :/</label>
+        </label>
+      </fieldset>
+      <fieldset>
+        <label name='courses-to-take'>What courses are you planning to take in FreeCodeCamp?
+          <label for='course-responsive'><input type='checkbox' id='course-responsive' value='courses-to-take' />Responsive web design</label>
+          <label for='course-js-algorithms'><input type='checkbox' id='course-js-algorithms' value='courses-to-take' />JavaScript Algorithms and data structure</label>
+          <label for='course-frontend'><input type='checkbox' id='course-frontend' value='courses-to-take' />Front end development libraries</label>
+          <label for='course-data-visual'><input type='checkbox' id='course-data-visual' value='courses-to-take' />Data visualization</label>
+        </label>
+          <label for='course-relational'><input type='checkbox' id='course-relational' value='courses-to-take' />Relational database</label>
+        </label>
+      </fieldset>
+      <fieldset>
+        <label for='comments'>
+          Please send us any additional comments you have:
+          <textarea id='comments' name='comments' cols='40' rows='5' placeholder='Insert comments here '></textarea>
+        </label>
+    </fieldset>
+    <input type='submit' id='submit' value='Submit' />
+    </form>
+  </body>
+</html>
