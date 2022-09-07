@@ -9,9 +9,9 @@ Free Code Camp [(new) Responsive Web Design Course](https://www.freecodecamp.org
 4. - [x] [Learn HTML forms by building a registration form](https://github.com/salvarez96/FCC-responsive-web-design/tree/main/New%20responsive%20web%20design%20course/Fourth%20project)
 5. - [x] [**Certification project: Survey form**](https://github.com/salvarez96/FCC-responsive-web-design/tree/main/New%20responsive%20web%20design%20course/Fifth%20project)
 ------
-6. - [ ] Learn the CSS Box Model by Building a Rothko Painting, Not started
-7. - [ ] Learn CSS Flexbox by Building a Photo Gallery, Not started
-8. - [ ] Learn Typography by Building a Nutrition Label, Not started
+6. - [ ] Learn the CSS Box Model by Building a Rothko Painting
+7. - [ ] Learn CSS Flexbox by Building a Photo Gallery
+8. - [ ] Learn Typography by Building a Nutrition Label
 9. - [ ] Learn Accessibility by Building a Quiz
 10. - [ ] **Certification project: Tribute page**
 ------
