@@ -16,7 +16,7 @@ Certification projects are the most important ones, where most new topics learnt
 ------
 6. - [x] [Learn the CSS Box Model by Building a Rothko Painting](https://github.com/salvarez96/FCC-responsive-web-design/tree/main/New%20responsive%20web%20design%20course/Sixth%20project)
 7. - [x] [Learn CSS Flexbox by Building a Photo Gallery](https://github.com/salvarez96/FCC-responsive-web-design/tree/main/New%20responsive%20web%20design%20course/Sixth%20project)
-8. - [ ] Learn Typography by Building a Nutrition Label
+8. - [x] [Learn Typography by Building a Nutrition Label](https://github.com/salvarez96/FCC-responsive-web-design/tree/main/New%20responsive%20web%20design%20course/Eighth%20project)
 9. - [ ] Learn Accessibility by Building a Quiz
 10. - [ ] **Certification project: Tribute page**
 ------
