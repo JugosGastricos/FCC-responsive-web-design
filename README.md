@@ -2,7 +2,7 @@
 
 Free Code Camp [(new) Responsive Web Design Course](https://www.freecodecamp.org/learn/2022/responsive-web-design) repo. 
 
-Here lies every project I've been making in the RWD course. 
+Here lies every project I've been making in the RWD course. You can take a peek of each project in [my FCC's portfolio](https://salvarez96.github.io/FCC-responsive-web-design/) (under construction 🚧)
 
 #### Note: 
 Certification projects are the most important ones, where most new topics learnt in the course modules are applied in a one-off project.
